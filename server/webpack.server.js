@@ -5,7 +5,6 @@ const webpackNodeExternals = require('webpack-node-externals');
 
 const config = {
   target: 'node',
-
   entry: './src/index.js',
 
   output: {
